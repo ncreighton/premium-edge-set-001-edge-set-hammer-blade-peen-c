@@ -1,0 +1,2 @@
+# premium-edge-set-001-edge-set-hammer-blade-peen-c
+Tired of losing track of your hardening cycles and blade geometry specs across scattered notes? Your edge set workshop deserves a single source of truth — not a pile of Post-its.  The Edge Set Hammer &amp; Blade Peen Craft Lab is a Notion template built specifically for metalworkers who need to track every grind, temper, and peen without the chaos. It
